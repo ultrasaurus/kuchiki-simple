@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.91"
 kuchikiki = "0.8.2"
-markup5ever = "0.11.0"
+markup5ever = "0.11.0"  # can't upgrade till kuchikiki does
